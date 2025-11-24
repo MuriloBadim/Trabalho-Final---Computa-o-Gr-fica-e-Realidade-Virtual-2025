@@ -4,6 +4,8 @@ Space Battle é um jogo 3D desenvolvido como projeto final da disciplina de Prog
 O objetivo é sobreviver ao maior número possível de inimigos e obstáculos, utilizando reflexos, estratégia e precisão nos tiros.  
 O jogo conta com níveis de dificuldade, ranking, efeitos sonoros, colisões e modelagem própria.
 
+Modo dificil os pontos do score são duplicados, aumenta a vida e a velocidade das naves inimigas.
+
 ---
 
 ## Download do Executável & Vídeo Demonstrativo
