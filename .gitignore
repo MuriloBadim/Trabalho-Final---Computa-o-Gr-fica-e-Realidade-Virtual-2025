@@ -30,3 +30,17 @@ sysinfo.txt
 
 # TextMeshPro cache
 Assets/TextMesh Pro/Resources/Sprite Assets
+<<<<<<< HEAD
+=======
+
+# Build executáveis extras
+*.exe
+*.apk
+*.app
+
+# Pasta de cache do Unity Collaborate
+[Cc]ache/
+
+# Pasta de testes gerada pela Unity
+[Tt]estResults/
+>>>>>>> master

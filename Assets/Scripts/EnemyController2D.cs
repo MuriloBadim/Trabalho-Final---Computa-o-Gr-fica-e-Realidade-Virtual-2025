@@ -27,6 +27,28 @@ public class EnemyController2D : MonoBehaviour
             player = p.transform;
         else
             Debug.LogError("ERRO: Nenhum objeto com a Tag 'Player' foi encontrado!");
+<<<<<<< HEAD
+=======
+
+        ApplyDifficulty();
+    }
+
+    void ApplyDifficulty()
+    {
+        int diff = PlayerPrefs.GetInt("Difficulty", 1);
+
+        if (diff == 1)
+        {
+            // NORMAL
+            return;
+        }
+        else
+        {
+            // DIFÍCIL – aumenta vida e velocidade
+            moveSpeed *= 1.5f;
+            data.health += 2;
+        }
+>>>>>>> master
     }
 
     void Update()
