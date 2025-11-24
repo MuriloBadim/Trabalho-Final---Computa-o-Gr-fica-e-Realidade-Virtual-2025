@@ -11,4 +11,4 @@ O jogo conta com níveis de dificuldade, ranking, efeitos sonoros, colisões e m
 👉 https://drive.google.com/drive/folders/16Ba4W5ZzuMcsURfzNT_NbejqhO62PiIR
 
 ## Vídeo demonstrativo do jogo
-👉 
+👉 https://drive.google.com/file/d/1qupuKYToppxcy6rCI4Qu-QzTXfTItMW3/view?usp=drive_link
